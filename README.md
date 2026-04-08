@@ -15,6 +15,7 @@ Consumer Behavior:
 Analyze purchasing patterns, payment method preferences, and overall customer satisfaction/brand loyalty.
 
 Data Methodology & Tech Stack
+
 Tools Utilized
 Primary Platform: Power BI Desktop
 
