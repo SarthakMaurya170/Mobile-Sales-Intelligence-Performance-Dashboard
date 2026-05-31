@@ -1,3 +1,4 @@
+<img width="1434" height="805" alt="Mobile Sales Dashboard" src="https://github.com/user-attachments/assets/0397ce44-aa51-422f-8fb7-bd8268864e2d" />
 Mobile Sales Intelligence & Performance Dashboard
 
 Executive Summary
